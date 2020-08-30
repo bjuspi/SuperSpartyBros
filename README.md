@@ -6,6 +6,8 @@ Sparty is the name of the MSU mascot, and the player character on this game. Whi
 
 Each level, you're presented with a pre-adjusted levels. Your goal here is to reach attain the rose on each level to proceed to the next level. Obstacles and enemies are presented to add as an additional challenge for the player.
 
+# Install Instructions
 
+Download, unzip, run the WebGL build named index.html using WebGL compatible applications.
 
 
