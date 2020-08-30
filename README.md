@@ -8,6 +8,6 @@ Each level, you're presented with a pre-adjusted levels. Your goal here is to re
 
 # Install Instructions
 
-Download, unzip, run the WebGL build named index.html using WebGL compatible applications.
+Download, unzip, run the WebGL build named `index.html` using WebGL compatible applications.
 
 
