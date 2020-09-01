@@ -1,4 +1,4 @@
-# SuperSpartyBros
+# Super Sparty Bros
 
 Super Sparty Bros is a simple 2D platformer game I developed as part of the Game Design and Development Specialization by Michigan State University on Coursera. 
 
