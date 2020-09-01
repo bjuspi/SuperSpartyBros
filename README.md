@@ -1,6 +1,6 @@
 # SuperSpartyBros
 
-super Sparty Bros is a simple 2D platformer game I developed as part of the Game Design and Development Specialization by Michigan State University on Coursera. 
+Super Sparty Bros is a simple 2D platformer game I developed as part of the Game Design and Development Specialization by Michigan State University on Coursera. 
 
 Sparty is the name of the MSU mascot, and the player character on this game. While the original game was developed by Brian Winn and Greg Kozma, but this version was modified by me with an additional gameplay level, design and assets. Hope you enjoy!
 
